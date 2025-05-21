@@ -12,7 +12,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,I'm BTech CSE Graduate. I enjoy collaborating with people on works of similar interest.
+💡 &nbsp; Hello everyone,I'm BTech CSE Graduate. I enjoy collaborating with people on works of similar interest.\
 ✍️ &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
 🌱 &nbsp;I’m currently learning Socket.io, REST api's, Auth.\
 💬 &nbsp;Ask me about Nodejs, MongoDB, Expressjs\
