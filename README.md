@@ -16,7 +16,7 @@
 ✍️ &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
 🌱 &nbsp;I’m currently learning Socket.io, REST api's, Auth.\
 💬 &nbsp;Ask me about Nodejs, MongoDB, Expressjs\
-📫 &nbsp;How to reach me Harshchavan6362@gmail.com\
+📫 &nbsp;How to reach me Harshchavan6362@gmail.com
 
 
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
