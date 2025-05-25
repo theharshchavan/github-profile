@@ -55,7 +55,7 @@
 
 <div align="center">
   
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=theharshchavan&theme=gruvbox&hide_border=false)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=theharshchavan&theme=gruvbox&hide_border=false)
 
  </div>
  
